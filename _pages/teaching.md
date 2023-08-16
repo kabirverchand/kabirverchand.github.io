@@ -18,5 +18,5 @@ nav_order: 3
 
 ##### Berkeley
 - EE126: Probability and random processes (Spring 2016, Spring 2017)
-    - <strong>Recipient of [EECS Outstanding TA Award](https://www2.eecs.berkeley.edu/Students/Awards/13/) and [Campus Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)</strong>
+    - Recipient of [EECS Outstanding TA Award](https://www2.eecs.berkeley.edu/Students/Awards/13/) and [Campus Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)
 
