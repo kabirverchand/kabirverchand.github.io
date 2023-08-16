@@ -1,12 +1,22 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /teaching
+title: Teaching
 nav: true
-nav_order: 5
+nav_order: 3 
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### As instructor
+##### Stanford
+- EE178: Probabilistic Systems Analysis (Fall 2022)
 
-Organize your courses by years, topics, or universities, however you like!
+#### As TA
+
+##### Stanford
+- EE178: Probabilistic Systems Analysis (Spring 2020, Spring 2021, Spring 2022)
+- EE378B: Inference, Estimation and Information Processing (Spring 2019)
+
+##### Berkeley
+- EE126: Probability and random processes (Spring 2016, Spring 2017)
+    - <strong>Recipient of [EECS Outstanding TA Award](https://www2.eecs.berkeley.edu/Students/Awards/13/) and [Campus Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)</strong>
+
