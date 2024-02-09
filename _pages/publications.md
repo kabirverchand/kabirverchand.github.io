@@ -8,7 +8,11 @@ nav_order: 1
 
 #### Preprints and in submission
 
-- Chandrasekher, K., Lou, M., and Pananjady, A. (2022), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660) (<em>preprint</em>).
+- Lou, M., Verchand, K.A., and Pananjady, A. (2024), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) (<em> preprint</em>
+
+- Mardia, J., Verchand, K.A., and Wein, Alexander S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451) (<em>preprint</em>)
+
+- Chandrasekher, K., Lou, M., and Pananjady, A. (2022), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660) (<em>preprint</em>). Extended abstract at Algorithmic Learning Theory (ALT) 2024.
 
 
 - Chandrasekher, K., El Alaoui, A., and Montanari, A. (2020), [Imputation for
