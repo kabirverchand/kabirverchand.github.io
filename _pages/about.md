@@ -20,14 +20,8 @@ I am broadly interested in problems at the intersection of optimization, statist
 <strong>Note:</strong> I previously published under the name Kabir Aladin Chandrasekher. 
 
 
-### Selected and recent publications
-1. **Chandrasekher, K.A.**, Lou, M., and Pananjady, A. (2024+), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660) 
-	- Extended abstract at Algorithmic Learning Theory (ALT) 2024.
-
-2. **Chandrasekher, K.A.**, Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), Annals of Statistics.
+### Selected recent publications (see [all](https://kabirverchand.github.io/publications))
+- **Chandrasekher, K.A.**, Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), Annals of Statistics.
     - Runner-up: Best paper prize for young researchers in continuous
       optimization (ICCOPT 2022)
-      
-3. Lou, M., **Verchand, K.A.**, and Pananjady, A., (2024) [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599)
-
-4. Mardia, J., **Verchand, K.A.**, and Wein, Alexander S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
+- Mardia, J., **Verchand, K.A.**, and Wein, Alexander S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).

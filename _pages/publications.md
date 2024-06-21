@@ -8,17 +8,17 @@ nav_order: 1
 
 #### Preprints and in submission
 
+- Ma, T., Verchand, K.A., and Samworth, R.J. (2024), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447) (<em>preprint<em>)
+
 - Lou, M., Verchand, K.A., and Pananjady, A. (2024), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) (<em> preprint</em>)
 
-
-- Chandrasekher, K.A., Lou, M., and Pananjady, A. (2022), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660) (<em>preprint</em>). Extended abstract at Algorithmic Learning Theory (ALT) 2024.
-
+- Chandrasekher, K.A., Lou, M., and Pananjady, A. (2024+), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660) (<em>preprint</em>). Extended abstract at Algorithmic Learning Theory (ALT) 2024.
 
 - Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
   High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
   (<em>preprint</em>).
 
-- Mardia, J., Asi, H., Chandrasekher, K.A., [Finding Planted Cliques in Sublinear
+- Mardia, J., Asi, H., Chandrasekher, K.A. (2020), [Finding Planted Cliques in Sublinear
   Time](https://arxiv.org/abs/2004.12002) (<em>preprint</em>).
 
 #### Published
@@ -40,5 +40,8 @@ nav_order: 1
   Ramchandran, K. (2017), [Asynchronous and Noncoherent Neighbor Discovery for the IoT Using Sparse-Graph Codes](https://ieeexplore.ieee.org/abstract/document/7996746), International Conference on Communications (ICC).
 
 - Chandrasekher, K.A., Ocal, O., and Ramchandran, K. (2017), [Density Evolution on a Class of Smeared Random Graphs: A Theoretical Framework for Fast MRI](https://arxiv.org/abs/1705.02453), International Symposium on Information Theory (ISIT).
+
+#### Thesis
+- Verchand, K.A. (2023), [Some Results in High Dimensional Statistics: Iterative Algorithms and Regression with Missing Data](https://searchworks.stanford.edu/view/14783532) 
 
 
