@@ -15,6 +15,7 @@ nav_order: 1
 - Chandrasekher, K.A., Lou, M., and Pananjady, A. (2024+), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660) (<em>preprint</em>)
 	- Extended abstract at Algorithmic Learning Theory (ALT) 2024.
 
+
 - Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
   High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
   (<em>preprint</em>).
@@ -28,6 +29,7 @@ nav_order: 1
 - Chandrasekher, K.A., Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), Annals of Statistics.
      - <strong>Runner-up: Best paper prize for young researchers in continuous
       optimization (ICCOPT 2022)</strong>
+
 
 - Lee, K., Chandrasekher, K.A., Pedarsani, R., and Ramchandran, K.
   (2019), [SAFFRON: A Fast, Efficient, and Robust Framework for Group Testing Based on Sparse-Graph Codes](https://ieeexplore.ieee.org/document/8771121), IEEE Transactions on Signal Processing. 
