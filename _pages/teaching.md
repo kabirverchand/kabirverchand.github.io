@@ -10,7 +10,9 @@ nav_order: 3
 ##### Stanford
 - EE178: Probabilistic Systems Analysis (Fall 2022)
 
-#### As TA
+#### As TA/Supervisor
+##### Cambridge
+- Probability and Measure (Michaelmas 2023)
 
 ##### Stanford
 - EE178: Probabilistic Systems Analysis (Spring 2020, Spring 2021, Spring 2022)
