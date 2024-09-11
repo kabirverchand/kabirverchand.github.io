@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: kav29 [at] cam [dot] ac [dot] uk 
+subtitle: kabirverchand [at] gmail.com 
 
 profile:
   align: right 
