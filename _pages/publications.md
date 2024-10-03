@@ -8,7 +8,9 @@ nav_order: 1
 
 #### Preprints and in submission
 
-- Ma, T., Verchand, K.A., and Samworth, R.J. (2024), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447) (<em>preprint<em>)
+- Verchand, K.A. and Montanari, A. (2024), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>)
+
+- Ma, T., Verchand, K.A., and Samworth, R.J. (2024), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447) (<em>preprint</em>)
 
 - Lou, M., Verchand, K.A., and Pananjady, A. (2024), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) (<em> preprint</em>)
 
@@ -20,7 +22,7 @@ nav_order: 1
   Time](https://arxiv.org/abs/2004.12002) (<em>preprint</em>).
 
 #### Published
-- Chandrasekher, K.A., Lou, M., and Panajady, A. (2024), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660), Information and Inference. (Extended abstract at Algorithmic Learning Theory (ALT))
+- Chandrasekher, K.A., Lou, M., and Panajady, A. (2024), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660), Information and Inference: A Journal of the IMA. (Extended abstract at Algorithmic Learning Theory (ALT))
 
 - Mardia, J., Verchand, K.A., and Wein, Alexander S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
 
