@@ -27,4 +27,4 @@ I am broadly interested in problems at the intersection of optimization, statist
     - Runner-up: Best paper prize for young researchers in continuous
       optimization (ICCOPT 2022)
 - Ma, T., **Verchand, K.A.**, Berrett, T.B., Wang, T., and Samworth, R.J. (2024), [Estimation beyond Missing (Completely) at Random](https://arxiv.org/abs/2410.10704), (<em>preprint</em>). 
-- Mardia, J., **Verchand, K.A.**, and Wein, Alexander S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
+- Mardia, J., **Verchand, K.A.**, and Wein, A.S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
