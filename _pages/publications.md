@@ -15,6 +15,7 @@ nav_order: 1
 - Ma, T., Verchand, K.A., and Samworth, R.J. (2024), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447) (<em>preprint</em>)
 
 - Lou, M., Verchand, K.A., and Pananjady, A. (2024), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) (<em> preprint</em>)
+    - Preliminary version at Workshop on High-dimensional Learning Dynamics, ICML 2023 (Oral)
 
 - Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
   High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
@@ -25,6 +26,7 @@ nav_order: 1
 
 #### Published
 - Chandrasekher, K.A., Lou, M., and Panajady, A. (2024), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660), Information and Inference: A Journal of the IMA. (Extended abstract at Algorithmic Learning Theory (ALT))
+    - Preliminary version at Workshop on The Benefits of Higher-Order Optimization in Machine Learning, Neurips 2022 (Oral).
 
 - Mardia, J., Verchand, K.A., and Wein, A.S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
 
