@@ -17,7 +17,6 @@ I am a postdoctoral scholar hosted jointly by [Richard Samworth](https://www.sta
 
 I am broadly interested in problems at the intersection of optimization, statistics, and computational complexity.  In particular, I am interested in understanding both statistical and computational aspects of learning from random (as opposed to worst case) data.  Most of my recent work has focused on providing sharp, algorithm-specific guarantees for various nonconvex optimization problems with random data.
 
-**I am on the 2024-2025 academic job market.** You can find my CV [here](https://kabirverchand.github.io/assets/pdf/cv_kav.pdf).
 
 *Note:* I previously published under the name Kabir Aladin Chandrasekher. 
 
