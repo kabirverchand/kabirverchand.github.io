@@ -8,6 +8,8 @@ nav_order: 1
 
 #### Preprints and in submission
 
+- Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2025), [Accurate, provable, and fast nonlinear tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), (<em>preprint</em>)
+
 - Ma, T., Verchand, K.A., Berrett, T.B., Wang, T., and Samworth, R.J. (2024), [Estimation beyond Missing (Completely) at Random](https://arxiv.org/abs/2410.10704), (<em>preprint</em>) 
 
 - Verchand, K.A. and Montanari, A. (2024), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>)
