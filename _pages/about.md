@@ -20,6 +20,8 @@ I am broadly interested in problems at the intersection of optimization, statist
 
 *Note:* I previously published under the name Kabir Aladin Chandrasekher. 
 
+**In Fall 2025, I will join the University of Southern California (USC) as an assistant professor in the Department of Data Sciences and Operations**
+
 
 ### Selected recent publications (see [all](https://kabirverchand.github.io/publications))
 - **Chandrasekher, K.A.**, Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), Annals of Statistics.
