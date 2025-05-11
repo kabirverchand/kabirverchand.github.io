@@ -7,6 +7,9 @@ nav_order: 3
 ---
 
 #### As instructor
+##### USC
+- BUAD310: Applied Business Statistics (Fall 2025)
+
 ##### Stanford
 - EE178: Probabilistic Systems Analysis (Fall 2022)
 
