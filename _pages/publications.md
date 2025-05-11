@@ -15,30 +15,28 @@ nav_order: 1
 
 - Verchand, K.A. and Montanari, A. (2024), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>)
 
-- Ma, T., Verchand, K.A., and Samworth, R.J. (2024), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447) (<em>preprint</em>)
-
 - Lou, M., Verchand, K.A., and Pananjady, A. (2024), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) (<em> preprint</em>)
     - Preliminary version at Workshop on High-dimensional Learning Dynamics, ICML 2023 (Oral)
 
-- Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
-  High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
-  (<em>preprint</em>).
 
-- Mardia, J., Asi, H., Chandrasekher, K.A. (2020), [Finding Planted Cliques in Sublinear
-  Time](https://arxiv.org/abs/2004.12002) (<em>preprint</em>).
+#### Journal publications
+- Ma, T., Verchand, K.A., and Samworth, R.J. (2025+), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447) (Statistical Science, <em>to appear</em>)
 
-#### Published
 - Chandrasekher, K.A., Lou, M., and Panajady, A. (2024), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660), Information and Inference: A Journal of the IMA. (Extended abstract at Algorithmic Learning Theory (ALT))
     - Preliminary version at Workshop on The Benefits of Higher-Order Optimization in Machine Learning, Neurips 2022 (Oral).
-
-- Mardia, J., Verchand, K.A., and Wein, A.S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
 
 - Chandrasekher, K.A., Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), Annals of Statistics.  <strong>Runner-up: Best paper prize for young researchers in continuous
       optimization, Mathematical Optimization Society</strong>
 
-
 - Lee, K., Chandrasekher, K.A., Pedarsani, R., and Ramchandran, K.
   (2019), [SAFFRON: A Fast, Efficient, and Robust Framework for Group Testing Based on Sparse-Graph Codes](https://ieeexplore.ieee.org/document/8771121), IEEE Transactions on Signal Processing. 
+
+
+#### Conference proceedings
+- Chandrasekher, K.A., Lou, M., and Panajady, A. (2024), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660),  (Extended abstract at Algorithmic Learning Theory (ALT);  Superseded by journal version.)
+    - Preliminary version at Workshop on The Benefits of Higher-Order Optimization in Machine Learning, Neurips 2022 (Oral).
+    
+- Mardia, J., Verchand, K.A., and Wein, A.S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), Conference on Learning Theory (COLT).
 
 - Cheng, G., Chandrasekher, K.A., and Walrand, J. (2019), [Static & Dynamic Appointment Scheduling with Stochastic Gradient Descent](https://ieeexplore.ieee.org/document/8814666), American Control Conference (ACC).
 
@@ -52,5 +50,13 @@ nav_order: 1
 
 #### Thesis
 - Verchand, K.A. (2023), [Some Results in High Dimensional Statistics: Iterative Algorithms and Regression with Missing Data](https://searchworks.stanford.edu/view/14783532) 
+
+#### Unpublished technical reports
+- Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
+  High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
+  (<em>preprint</em>).
+
+- Mardia, J., Asi, H., Chandrasekher, K.A. (2020), [Finding Planted Cliques in Sublinear
+  Time](https://arxiv.org/abs/2004.12002) (<em>preprint</em>).
 
 
