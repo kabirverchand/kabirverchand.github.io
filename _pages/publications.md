@@ -8,7 +8,7 @@ nav_order: 1
 
 #### Preprints and in submission
 
-1. Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), (<em>preprint</em>)
+1. Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), (<em>preprint</em>).
 
 1. Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2025), [Accurate, provable, and fast nonlinear tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), (<em>preprint</em>)
 	- Preliminary version at the 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)
