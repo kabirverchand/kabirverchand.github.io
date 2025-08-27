@@ -21,7 +21,8 @@ nav_order: 1
 
 
 #### Journal publications
-1. Lou, M., Verchand, K.A., and Pananjady, A. (2025+), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) , Mathematical Programming: Series B (<em> to appear</em>)
+
+1. Lou, M., Verchand, K.A., and Pananjady, A. (2025+), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599), Mathematical Programming: Series B (<em> to appear</em>)
     - Preliminary version at Workshop on High-dimensional Learning Dynamics, ICML 2023 (Oral)
 
 1. Ma, T., Verchand, K.A., and Samworth, R.J. (2025+), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447), Statistical Science (<em>to appear</em>).
