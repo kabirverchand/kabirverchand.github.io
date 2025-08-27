@@ -17,11 +17,13 @@ nav_order: 1
 
 1. Verchand, K.A. and Montanari, A. (2024), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>)
 
-1. Lou, M., Verchand, K.A., and Pananjady, A. (2024), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) (<em> preprint</em>)
-    - Preliminary version at Workshop on High-dimensional Learning Dynamics, ICML 2023 (Oral)
+
 
 
 #### Journal publications
+1. Lou, M., Verchand, K.A., and Pananjady, A. (2025+), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599) , Mathematical Programming: Series B (<em> to appear</em>)
+    - Preliminary version at Workshop on High-dimensional Learning Dynamics, ICML 2023 (Oral)
+
 1. Ma, T., Verchand, K.A., and Samworth, R.J. (2025+), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447), Statistical Science (<em>to appear</em>).
 
 1. Chandrasekher, K.A., Lou, M., and Panajady, A. (2024), [Alternating minimization for generalized rank one matrix sensing: Sharp predictions from a random initialization](https://arxiv.org/abs/2207.09660), Information and Inference: A Journal of the IMA. 
