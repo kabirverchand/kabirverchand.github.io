@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: verchand [at] usc.edu 
+subtitle: Contact: verchand [at] usc.edu, Office: Bridge Hall 401F
 
 profile:
   align: right 
@@ -13,9 +13,9 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am an assistant professor in the department of Data Sciences and Operations in the Marshall School of Business at the University of Southern California (USC).  Prior to this, I was a postdoctoral scholar hosted jointly by [Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) at the Statistical Laboratory, University of Cambridge and [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) at the Schools of Industrial and Systems Engineering and Electrical and Computer Engineering, Georgia Tech.  Before that, I obtained my PhD in Electrical Engineering at Stanford University, where I was advised by [Andrea Montanari](https://web.stanford.edu/~montanar/).  
+I am an assistant professor in the department of Data Sciences and Operations in the Marshall School of Business at the University of Southern California (USC).  Prior to this, I held postdoctoral appointments at the University of Cambridge in the Department of Pure Mathematics and Mathematical Statistics and at the Georgia Institute of Technology in the Industrial and Systems Engineering department.  Before that, I obtained my PhD in Electrical Engineering at Stanford University and a BS in Electrical Engineering and Computer Science at UC Berkeley.
 
-I am broadly interested in problems at the intersection of optimization, statistics, and computational complexity.  In particular, I am interested in understanding both statistical and computational aspects of learning from random (as opposed to worst case) data.
+I am broadly interested in problems at the intersection of optimization, statistics, and computational complexity and am happy to chat about any and all of these.  
 
 
 *Note:* I previously published under the name Kabir Aladin Chandrasekher. 
