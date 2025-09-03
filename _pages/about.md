@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Contact: verchand [at] usc.edu, Office: Bridge Hall 401F
+subtitle: verchand [at] usc.edu, Bridge Hall 401F
 
 profile:
   align: right 
