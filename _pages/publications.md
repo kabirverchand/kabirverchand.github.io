@@ -8,7 +8,7 @@ nav_order: 1
 
 #### Preprints and in submission
 
-1.- Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), (<em>preprint</em>).
+1. Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), (<em>preprint</em>).
 
 1. Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), (<em>preprint</em>).
 
