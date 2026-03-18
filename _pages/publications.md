@@ -8,6 +8,8 @@ nav_order: 1
 
 #### Preprints and in submission
 
+1.- Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), (<em>preprint</em>).
+
 1. Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), (<em>preprint</em>).
 
 
@@ -20,10 +22,10 @@ nav_order: 1
 
 #### Journal publications
 
-1. Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2025+), [Accurate, provable and fast polychromatic tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), SIAM Journal on Imaging Sciences (<em>to appear</em>)
+1. Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2026), [Accurate, provable and fast polychromatic tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), SIAM Journal on Imaging Sciences.
 	- Preliminary version at the 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)
 
-1. Lou, M., Verchand, K.A., and Pananjady, A. (2025), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599), Mathematical Programming: Series B
+1. Lou, M., Verchand, K.A., and Pananjady, A. (2025), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599), Mathematical Programming: Series B.
     - Preliminary version at Workshop on High-dimensional Learning Dynamics, ICML 2023 (Oral)
 
 1. Ma, T., Verchand, K.A., and Samworth, R.J. (2025+), [High-probability minimax lower bounds](https://arxiv.org/abs/2406.13447), Statistical Science (<em>to appear</em>).

@@ -23,6 +23,8 @@ I am broadly interested in problems at the intersection of optimization, statist
 
 ### Selected recent publications (see [all](https://kabirverchand.github.io/publications))
 
+- Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), (<em>preprint</em>).
+
 - Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), (<em>preprint</em>).
 
 - Chandrasekher, K.A., Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), Annals of Statistics.
