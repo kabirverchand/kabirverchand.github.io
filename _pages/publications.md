@@ -15,7 +15,7 @@ nav_order: 1
 
 1. Ma, T., Verchand, K.A., Berrett, T.B., Wang, T., and Samworth, R.J. (2024), [Estimation beyond Missing (Completely) at Random](https://arxiv.org/abs/2410.10704), (<em>preprint</em>) 
 
-1. Verchand, K.A. and Montanari, A. (2024), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>)
+
 
 1. Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
   High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
@@ -29,7 +29,9 @@ nav_order: 1
 
 #### Publications
 
-1. Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2026), [Accurate, provable and fast polychromatic tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), SIAM Journal on Imaging Sciences.
+1. Verchand, K.A. and Montanari, A. (2026+), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>), SIAM Journal on Mathematics of Data Science (SIMODS), to appear.
+
+1. Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2026), [Accurate, provable and fast polychromatic tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), SIAM Journal on Imaging Sciences (SIIMS).
 	- Preliminary version at the 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)
 
 1. Lou, M., Verchand, K.A., and Pananjady, A. (2025), [Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods in matrix sensing](https://arxiv.org/abs/2402.01599), Mathematical Programming: Series B.
