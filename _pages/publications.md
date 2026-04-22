@@ -12,11 +12,6 @@ nav_order: 1
 
 1. Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), (<em>preprint</em>).
 
-
-1. Ma, T., Verchand, K.A., Berrett, T.B., Wang, T., and Samworth, R.J. (2024), [Estimation beyond Missing (Completely) at Random](https://arxiv.org/abs/2410.10704), (<em>preprint</em>) 
-
-
-
 1. Chandrasekher, K.A., El Alaoui, A., and Montanari, A. (2020), [Imputation for
   High-Dimensional Linear Regression](https://arxiv.org/abs/2001.09180)
   (<em>preprint</em>).
@@ -29,7 +24,9 @@ nav_order: 1
 
 #### Publications
 
-1. Verchand, K.A. and Montanari, A. (2026+), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093) (<em>preprint</em>), SIAM Journal on Mathematics of Data Science (SIMODS), to appear.
+1. Ma, T., Verchand, K.A., Berrett, T.B., Wang, T., and Samworth, R.J. (2026+), [Estimation beyond Missing (Completely) at Random](https://arxiv.org/abs/2410.10704), Annals of Statistics (<em>to appear</em>).
+
+1. Verchand, K.A. and Montanari, A. (2026+), [High-dimensional logistic regression with missing data: Imputation, regularization, and universality](https://arxiv.org/pdf/2410.01093), SIAM Journal on Mathematics of Data Science (SIMODS), (<em>to appear</em>).
 
 1. Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2026), [Accurate, provable and fast polychromatic tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), SIAM Journal on Imaging Sciences (SIIMS).
 	- Preliminary version at the 18th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (Fully3D 2025)
