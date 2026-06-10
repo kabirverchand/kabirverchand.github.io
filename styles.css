@@ -1,0 +1,183 @@
+:root {
+  --ink: #111111;
+  --muted: #555555;
+  --rule: #dddddd;
+  --link: #8a1538;
+  --max-width: 850px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--link);
+}
+
+a:hover {
+  color: #5f0e27;
+}
+
+.site {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 32px 20px 56px;
+}
+
+.site-header {
+  align-items: center;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  gap: 24px;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  padding-bottom: 12px;
+}
+
+.site-title {
+  flex: 1 1 auto;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 1.15;
+  margin: 0;
+}
+
+.site-title a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.tabs {
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.94rem;
+  justify-content: flex-end;
+}
+
+.tabs a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.tabs a:hover,
+.tabs a.active {
+  text-decoration: underline;
+}
+
+.intro {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  margin: 0 0 24px;
+}
+
+.intro-photo {
+  flex: 0 0 190px;
+  margin: 0;
+}
+
+.intro-photo img {
+  border: 1px solid var(--rule);
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.intro-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.96rem;
+  line-height: 1.55;
+  padding-top: 2px;
+}
+
+.intro-text p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 1.75rem;
+  font-weight: normal;
+  margin: 0 0 18px;
+}
+
+h2 {
+  border-bottom: 1px solid var(--rule);
+  font-size: 1.35rem;
+  font-weight: bold;
+  margin: 30px 0 12px;
+  padding-bottom: 4px;
+}
+
+h3 {
+  font-size: 1.12rem;
+  font-weight: bold;
+  margin: 22px 0 8px;
+}
+
+p {
+  margin: 0 0 13px;
+}
+
+ul,
+ol {
+  margin: 0 0 18px;
+  padding-left: 1.35rem;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+.publications ul {
+  padding-left: 1.15rem;
+}
+
+.publications li {
+  margin-bottom: 11px;
+}
+
+@media (max-width: 520px) {
+  body {
+    font-size: 16px;
+  }
+
+  .site {
+    padding: 24px 16px 44px;
+  }
+
+  .site-title {
+    font-size: 1.75rem;
+  }
+
+  .tabs {
+    gap: 12px;
+  }
+
+  .intro {
+    display: block;
+  }
+
+  .intro-photo {
+    margin: 0 0 16px;
+    max-width: 210px;
+    width: min(70%, 210px);
+  }
+}
