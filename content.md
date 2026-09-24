@@ -9,7 +9,7 @@ photo: assets/profile-pic.jpeg
 
 ## Bio
 
-I am an assistant professor in the department of Data Sciences and Operations at the University of Southern California (USC).  Prior to this, I held postdoctoral appointments at the University of Cambridge in the Department of Pure Mathematics and Mathematical Statistics and at the Georgia Institute of Technology in the Industrial and Systems Engineering department.  Before that, I obtained my PhD in Electrical Engineering at Stanford University and a BS in Electrical Engineering and Computer Science at UC Berkeley.
+I am an assistant professor in the department of Data Sciences and Operations at the University of Southern California (USC).  Prior to this, I held postdoctoral appointments at the University of Cambridge in the Department of Pure Mathematics and Mathematical Statistics and at the Georgia Institute of Technology in the Industrial and Systems Engineering department, where I was jointly advised by Richard Samworth and Ashwin Pananjady.  Before that, I obtained my PhD in Electrical Engineering at Stanford University, where I was advised by Andrea Montanari, and a BS in Electrical Engineering and Computer Science at UC Berkeley.
 
 I am broadly interested in problems at the intersection of optimization, statistics, and computational complexity and am happy to chat about any and all of these.  
 

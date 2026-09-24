@@ -174,7 +174,7 @@ def homepage(meta, sections):
         </section>
 
         <section class="content-section">
-          <h3>Biosketch</h3>
+          <h3>About</h3>
 {markdown_to_html(sections.get("Bio", ""))}
         </section>
 
