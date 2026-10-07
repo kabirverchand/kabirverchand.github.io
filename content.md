@@ -18,8 +18,6 @@ I am broadly interested in problems at the intersection of optimization, statist
 
 ## Selected Publications
 
-- Choudhury, J.R., Verchand, K.A., Samworth, R.J., Pananjady, A. (2026), [Assumption-lean logistic regression with missing covariates](https://arxiv.org/abs/2610.07292), *preprint*.
-
 - Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), *Major revision at Annals of Statistics*.
 
 - Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), *Under revision at Communications on Pure and Applied Mathematics (CPAM)*.
