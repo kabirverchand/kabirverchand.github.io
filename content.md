@@ -18,15 +18,15 @@ I am broadly interested in problems at the intersection of optimization, statist
 
 ## Selected Publications
 
-- Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), *Major revision at Annals of Statistics*.
+- Verchand, K.A., Pensia, A., Haque, S., Kuditipudi, R. (2026+), [High-dimensional estimation with missing data: Statistical and computational limits](https://arxiv.org/abs/2603.16712), *Major revision at Annals of Statistics*.
 
-- Celentano, M., Cheng, C., Pananjady, A., and Verchand, K.A. (2025), [State evolution beyond first-order methods I: Rigorous predictions and finite-sample guarantees](https://www.arxiv.org/abs/2507.19611), *Under revision at Communications on Pure and Applied Mathematics (CPAM)*.
-
-- Chandrasekher, K.A., Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), *Annals of Statistics*.  **Runner-up: Best paper prize for young researchers in continuous optimization, Mathematical Optimization Society**
+- Lou, M., Verchand, K.A., Fridovich-Keil, S., Pananjady, A. (2026), [Accurate, provable and fast polychromatic tomographic reconstruction: A variational inequality approach](https://arxiv.org/abs/2503.19925), *SIAM Journal on Imaging Sciences (SIIMS)*.
 
 - Ma, T., Verchand, K.A., Berrett, T.B., Wang, T., and Samworth, R.J. (2026), [Estimation beyond Missing (Completely) at Random](https://arxiv.org/abs/2410.10704), *Annals of Statistics*. 
 
 - Mardia, J., Verchand, K.A., and Wein, A.S. (2024), [Low-degree phase transitions for detecting a planted clique in sublinear time](https://arxiv.org/abs/2402.05451), *Conference on Learning Theory (COLT)*.
+
+- Chandrasekher, K.A., Pananjady, A., and Thrampoulidis, C. (2023), [Sharp global convergence guarantees for iterative nonconvex optimization: A Gaussian process perspective](https://arxiv.org/abs/2109.09859), *Annals of Statistics*.  **Runner-up: Best paper prize for young researchers in continuous optimization, Mathematical Optimization Society**
 
 
 ## Research
